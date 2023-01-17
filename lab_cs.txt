@@ -28,3 +28,19 @@ echo ... > = overwrite file
 
 CMD + T = new tab in terminal command
 
+
+
+GITHUB COMMANDS
+
+git init = Initialising a repository remotely
+
+git status = show status
+
+git add = add files to staging area
+
+git commit = commit files (locally)
+
+git log = shows commit log
+
+git push origin main = push files to repo
+
