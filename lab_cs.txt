@@ -1,0 +1,30 @@
+pwd = print work directory 
+
+cd = change directory 
+
+ls = list files 
+ls -a = list hidden files
+ls -l = list file details
+
+mkdir = create directory
+
+touch = create file
+
+open = open file using default application
+
+rm = delete file
+rm -r = recursive flag
+rm -f = force flag
+
+cp = copy
+
+-r = recursive flag for folders
+
+cat = get the resident mac cat to read the file
+
+echo ... >> = append to file
+
+echo ... > = overwrite file
+
+CMD + T = new tab in terminal command
+
